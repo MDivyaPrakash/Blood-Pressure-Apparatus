@@ -45,6 +45,7 @@ Since MAP is roughly the midpoint of Systolic and Diastolic Blood Pressure, we c
 
 Approach to calculate the Heartbeat BPM:
 Theory: The number of peaks or ripples in our readings in a minute time will give heartbeats per minute for a person
+
 Approach:
 1. From the raw readings, sample 75 readings.
 2. 75 readings take 15 seconds, which should be sufficient for calculating heartbeats.
