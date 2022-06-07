@@ -1,4 +1,5 @@
-# Blood_Pressure_Gadget
+# Semi‐Automated Blood Pressure & Heart Rate measuring device
+
 # OBJECTIVE:
 The objective of this project work was to build a semi-automated blood pressure/HR measuring device. The device built must be capable of measuring two measurements, namely Systolic Pressure and Diastolic Pressure in measurements are in units of mm/Hg. Along with the mentioned values the device should also be capable of measuring the heart rate and displaying it to the user.
 
